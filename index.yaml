@@ -3,7 +3,17 @@ entries:
   cloudflared:
   - apiVersion: v2
     appVersion: 1.0.0-alpha.0
-    created: "2022-05-07T02:11:01.995705-04:00"
+    created: "2022-05-07T02:24:56.34373-04:00"
+    description: A Helm chart for Kubernetes
+    digest: a88dff154582a9fe39242a75b48c520528b7b84186bbad77866aa80bf86e8cb6
+    name: cloudflared
+    type: application
+    urls:
+    - cloudflared-1.0.0-alpha.1.tgz
+    version: 1.0.0-alpha.1
+  - apiVersion: v2
+    appVersion: 1.0.0-alpha.0
+    created: "2022-05-07T02:24:56.343467-04:00"
     description: A Helm chart for Kubernetes
     digest: 166e795de899b3db583bde23a7d5633cf03c7161886319f808f1ecc4e10e8f79
     name: cloudflared
@@ -11,4 +21,4 @@ entries:
     urls:
     - cloudflared-1.0.0-alpha.0.tgz
     version: 1.0.0-alpha.0
-generated: "2022-05-07T02:11:01.995237-04:00"
+generated: "2022-05-07T02:24:56.342896-04:00"
